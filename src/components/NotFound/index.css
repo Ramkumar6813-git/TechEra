@@ -1,0 +1,32 @@
+.not-found-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+.not-found-image {
+  width: 100%;
+  width: 400px;
+  margin-bottom: 30px;
+}
+.not-found-text {
+  margin-bottom: 10px;
+  font-size: 35px;
+  color: #1e293b;
+}
+.not-found-description {
+  font-size: 15px;
+  margin-bottom: 18px;
+  color: #64748b;
+  font-weight: 500;
+}
+.retry-button {
+  padding: 12px 25px;
+  background-color: #4656a1;
+  color: #ffffff;
+  border: none;
+  font-size: 10px;
+  font-weight: 600;
+  border-radius: 5px;
+}
