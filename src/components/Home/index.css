@@ -1,8 +1,11 @@
 .courses-container {
-  padding: 20px 20px 20px 40px;
+  padding: 30px;
+  font-family: 'Roboto';
 }
 .heading {
   margin-bottom: 20px;
+  padding-left: 40px;
+  color: #1e293b;
 }
 .course-items-list {
   list-style-type: none;

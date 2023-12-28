@@ -60,7 +60,7 @@ class CourseItemDetails extends Component {
         <div className="course-full-details-div">
           <img src={imageUrl} alt={name} className="course-item-image" />
           <div className="course-details-div">
-            <h1 className="course-name">{name}</h1>
+            <h1 className="course-full-name">{name}</h1>
             <p className="course-description">{description}</p>
           </div>
         </div>
